@@ -145,6 +145,14 @@ me.say_hi()
 
 ---
 
+## `❯ git log --graph --contributions`
+
+<div align="center">
+
+![Snake Dark](https://raw.githubusercontent.com/Harshhadiya2004/Harshhadiya2004/output/github-snake-dark.svg)
+
+</div>
+
 <!-- ══ TROPHIES ════════════════════════════════════════════════ -->
 
 ## `❯ cat ./achievements/trophies.log`
