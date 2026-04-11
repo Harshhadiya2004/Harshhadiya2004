@@ -57,7 +57,7 @@ class HarshHadiya:
         self.name       = "Harsh Hadiya"
         self.role       = "Full-Stack Developer"
         self.location   = "Surat, Gujarat, India"
-        self.stack      = ["React", "Next.js", "Node.js", "Python", "Flask"]
+        self.stack      = ["React", "Node.js", "Python", "Flask"]
         self.databases  = ["Firebase", "MongoDB", "PostgreSQL"]
         self.ai_ml      = ["Computer Vision", "NLP", "Face Recognition"]
         self.hire       = True  # ← always True 😄
