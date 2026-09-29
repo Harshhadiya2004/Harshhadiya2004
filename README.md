@@ -5,14 +5,14 @@
 <!-- ══ ANIMATED HEADER BANNER ══════════════════════════════════ -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:04000f,50:00f5d4,100:ff2d78&height=200&section=header&text=HARSH%20HADIYA&fontSize=52&fontFamily=VT323&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20%7C%20Open%20to%20Hire&descSize=16&descAlignY=58&descColor=00f5d4&animation=twinkling)](https://github.com/Harshhadiya2004)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HARSH%20HADIYA&fontSize=50&fontColor=ffffff&fontAlignY=40)](https://github.com/Harshhadiya2004)
 
 </div>
 
 <!-- ══ TYPING ANIMATION ════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%E2%9D%AF+whoami+--verbose;Full-Stack+Developer+from+Surat%2C+India;Building+AI-Powered+Products+%F0%9F%A4%96;React+%7C+Node.js+%7C+Python+%7C+Flask;Computer+Vision+%7C+NLP+%7C+Firebase;%E2%9D%AF+status%3A+OPEN+TO+HIRE+%E2%97%8F)](https://github.com/Harshhadiya2004)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%E2%9D%AF+whoami+--verbose;DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+OpenShift;CI%2FCD+%7C+Linux+%7C+GitHub+Actions;Full-Stack+Developer+%7C+React+%7C+Node.js;Competitive+Programming+%7C+DSA+%7C+C%2B%2B;%E2%9D%AF+status%3A+OPEN+TO+OPPORTUNITIES)](https://github.com/Harshhadiya2004)
 
 </div>
 
@@ -40,13 +40,13 @@
 │                   SYSTEM_INFO.conf                          │
 ├──────────────────────┬──────────────────────────────────────┤
 │  NAME                │  Harsh Hadiya                        │
-│  ROLE                │  Full-Stack Developer                 │
+│  ROLE                │  Software Engineer                   │
 │  LOCATION            │  Surat, Gujarat, India               │
 │  EDUCATION           │  IT Engineering                      │
-│  SPECIALITY          │  Web Apps + AI/ML                    │
+│  SPECIALITY          │  DevOps + Cloud + Full-Stack         │
 │  FRONTEND            │  ● PROFICIENT                        │
 │  BACKEND             │  ● PROFICIENT                        │
-│  AI / ML             │  ● ACTIVE                            │
+│  DEVOPS / CLOUD      │  ● ACTIVE                            │
 │  HIRE_STATUS         │  ● OPEN                              │
 └──────────────────────┴──────────────────────────────────────┘
 ```
@@ -55,11 +55,11 @@
 class HarshHadiya:
     def __init__(self):
         self.name       = "Harsh Hadiya"
-        self.role       = "Full-Stack Developer"
+        self.role       = "Software Engineer"
         self.location   = "Surat, Gujarat, India"
-        self.stack      = ["React", "Node.js", "Python", "Flask"]
-        self.databases  = ["Firebase", "MongoDB", "PostgreSQL"]
-        self.ai_ml      = ["Computer Vision", "NLP", "Face Recognition"]
+        self.stack      = ["AWS", "Docker", "Kubernetes", "OpenShift", "React", "Node.js"]
+        self.databases  = ["MongoDB", "MySQL", "SQL Server"]
+        self.devops    = ["GitHub Actions", "Linux", "CI/CD", "Nginx", "DNS"]
         self.hire       = True  # ← always True 😄
 
     def say_hi(self):
@@ -75,6 +75,18 @@ me.say_hi()
 <!-- ══ TECH STACK ═══════════════════════════════════════════════ -->
 
 ## `❯ ls -la ./skills/`
+
+### ☁️ DevOps & Cloud
+AWS • Docker • Kubernetes • OpenShift • GitHub Actions • Linux • CI/CD • Nginx • DNS • SSL/TLS • Terraform (hands-on learning)
+
+### 💻 Full-Stack
+React • Node.js • Express.js • JavaScript • REST APIs • Tailwind CSS • Socket.IO
+
+### 🗄️ Databases
+MongoDB • MySQL • SQL Server
+
+### 🧩 Problem Solving
+C++ • Data Structures & Algorithms • LeetCode
 
 <div align="center">
 
@@ -114,6 +126,17 @@ me.say_hi()
 ---
 
 <!-- ══ GITHUB STATS ════════════════════════════════════════════ -->
+
+## `❯ experience`
+
+### 🚀 Software Engineer — Kevalam Solutions
+
+- Working with **AWS, Docker, Linux, CI/CD, Kubernetes and Red Hat OpenShift**.
+- Worked on **IBM Maximo Application Suite (MAS) 9.2** deployment and troubleshooting on OpenShift.
+- Worked with **Nginx, DNS, SSL/TLS, SQL Server and containerized applications**.
+- Troubleshoot application, container, database and infrastructure issues.
+
+---
 
 ## `❯ git log --stat`
 
@@ -171,12 +194,12 @@ me.say_hi()
 
 <div align="center">
 
-| PID | PROJECT | TECH STACK | STATUS |
-|-----|---------|-----------|--------|
-| `001` | [**🎯 HireReady**](https://github.com/Harshhadiya2004/HireReady) — AI-powered interview prep platform | `Next.js` `TypeScript` `Python` `Flask` `Firebase` | ✅ Complete |
-| `002` | [**🤖 Slyce**](https://github.com/Harshhadiya2004) — Intelligent chatbot service with NLP | `Python` `NLP` `Node.js` `REST API` | ✅ Complete |
-| `003` | [**👁 Face Recognition Service**](https://github.com/Harshhadiya2004/EMOFACE) — CV-powered face detection & verification | `Python` `OpenCV` `ML` `Jupyter` | ✅ Complete |
-| `004` | [**🎓 CampusLink**](https://github.com/Harshhadiya2004/CampusLink) — Campus social platform (client + server) | `JavaScript` `Node.js` `Express` `REST API` | ✅ Complete |
+| PROJECT | DESCRIPTION | TECH STACK |
+|---|---|---|
+| 🎓 **[CampusLink](https://github.com/Harshhadiya2004/CampusLink)** | Campus mentorship, jobs, resume feedback and real-time messaging | React • Node.js • Express • MongoDB • Socket.IO |
+| 💬 **[ChatSphere](https://github.com/Harshhadiya2004/ChatSphere)** | Real-time chat with authentication, history and notifications | React • Node.js • Express • MongoDB • Socket.IO |
+| 👁 **[EMOFACE](https://github.com/Harshhadiya2004/EMOFACE)** | Computer vision and facial emotion recognition | Python • TensorFlow • Keras • OpenCV |
+| 📈 **Stock Portfolio Tracker** | Portfolio tracking and simulated stock buying | React • MySQL • Tailwind • Alpha Vantage |
 
 </div>
 
@@ -211,6 +234,16 @@ me.say_hi()
 
 <!-- ══ CONNECT ══════════════════════════════════════════════════ -->
 
+## `❯ competitive_programming`
+
+### 🧩 LeetCode — 500+ Problems Solved
+
+**Data Structures & Algorithms • C++ • Dynamic Programming • Arrays • Strings • Trees • Hash Tables • Backtracking**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-22it035-ffe000?style=for-the-badge&logo=leetcode&logoColor=ffe000&labelColor=04000f)](https://leetcode.com/u/22it035/)
+
+---
+
 ## `❯ ping harsh_hadiya --establish-connection`
 
 ```
@@ -229,7 +262,7 @@ HIRE_STATUS ....... OPEN ●
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-22it035-ffe000?style=for-the-badge&logo=leetcode&logoColor=ffe000&labelColor=04000f)](https://leetcode.com/u/22it035/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-harshhadiya2004%40gmail.com-39ff14?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=04000f)](mailto:harshhadiya2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshhadiya4%40gmail.com-39ff14?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=04000f)](mailto:harshhadiya4@gmail.com)
 
 </div>
 
